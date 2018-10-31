@@ -1,0 +1,27 @@
+{
+  "name": "php_caixaeletronico",
+  "version": "1.0.0",
+  "description": "Estudo de PHP intermediario - Sistema de Caixa Eletrônico",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgeronimo/php_caixaeletronico.git"
+  },
+  "keywords": [
+    "php",
+    "intermediario",
+    "caixa",
+    "eletronico",
+    "financeiro",
+    "finance"
+  ],
+  "author": "Rafael Geronimo",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rafaelgeronimo/php_caixaeletronico/issues"
+  },
+  "homepage": "https://github.com/rafaelgeronimo/php_caixaeletronico#readme"
+}
